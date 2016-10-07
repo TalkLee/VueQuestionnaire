@@ -1,6 +1,14 @@
-# vue-demo
+# 问卷调查系统的Vue重构版
 
-> A Vue.js project
+项目要求见 [百度前端技术学院](http://ife.baidu.com/task/detail?taskId=50)
+
+问卷调查系统的Vue重构版
+
+更新日志：
+
+2016.10.7 问卷内容自定义功能尚未完成，待续
+
+
 
 ## Build Setup
 
